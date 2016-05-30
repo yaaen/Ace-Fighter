@@ -1,0 +1,13 @@
+12
+Boss MoveX 200
+Turret1 MoveY 100
+Turret2 MoveY -100
+Turret Fire 100
+Turret1 MoveY -100
+Turret2 MoveY 100
+Boss MoveX -200
+Turret1 MoveY 100
+Turret2 MoveY -100
+Turret Fire 100
+Turret1 MoveY -100
+Turret2 MoveY 100

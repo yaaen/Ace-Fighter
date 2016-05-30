@@ -1,0 +1,10 @@
+9
+Turret Fire -350
+Boss MoveY -100
+Turret Fire -350
+Boss MoveY -100
+Turret Fire -350
+Boss MoveY 100
+Turret Fire -350
+Boss MoveY 100
+Turret Fire -350

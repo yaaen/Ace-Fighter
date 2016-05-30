@@ -1,0 +1,3 @@
+2
+Boss MoveX 200
+Boss MoveX -200

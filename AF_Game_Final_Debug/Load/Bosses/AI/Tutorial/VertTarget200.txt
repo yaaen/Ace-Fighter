@@ -1,0 +1,3 @@
+2
+Boss MoveY 200
+Boss MoveY -200

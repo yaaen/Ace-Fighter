@@ -1,0 +1,21 @@
+20
+Boss MoveX -130
+TopTurret MoveY -10
+TopTurret Fire -500
+TopTurret MoveY 10
+Boss MoveX -130
+TopTurret MoveY -10
+BottomTurret MoveY 10
+Turret Fire -500
+TopTurret MoveY 10
+BottomTurret MoveY -10
+Boss MoveX 130
+BottomTurret MoveY 10
+BottomTurret Fire 500
+BottomTurret MoveY -10
+Boss MoveX 130
+TopTurret MoveY -10
+BottomTurret MoveY 10
+Turret Fire 500
+TopTurret MoveY 10
+BottomTurret MoveY -10

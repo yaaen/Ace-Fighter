@@ -1,0 +1,839 @@
+12
+NoCondition Command
+Ace MoveX 10
+NoCondition Dialog
+Ace
+2
+Welcome to my secret training area. As you might already know, my name is Ace.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+I brought you here to teach you the basics so that we can commence our mission.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+First off, I'll teach you basic movement skills. The keys A, and D are used for movement and the W key
+is used to jump.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+Go ahead and move to the right by pressing the D key.
+D Key: Move right.
+KeyPress_d Dialog
+Ace
+2
+Great! Now use the A key to move to the left.
+A Key: Move left.
+KeyPress_a Dialog
+Ace
+2
+Perfect! Now use the W key to jump.
+W Key: Jump.
+KeyPress_w Dialog
+Ace
+2
+Good! Looks like you're a quick learner. 
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+When you're in the air, you can change directions by using the A and D keys. This will make it easier
+to jump onto platforms.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+Allright. Enough talk. Let's practice a bit, shall we? After all, if we're gonna overthrow the Swace Empire,
+we better be prepared.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+Make it to the end of the training stage by using the movement skills you just learned.
+X Key: Ok!
+KeyPress_x Finish
+2
+NoCondition Dialog
+Ace
+3
+That wasn't so hard, right? Ok, now make it to the end of this training stage. Use the movement and
+jumping skills you learned.
+X Key: Ok!
+KeyPress_x Finish
+17
+NoCondition Dialog
+Ace
+2
+Alright, now that you have the basic movement down, it's time to learn how to shoot. 
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+Over the past several thousand years, our race has evolved to allow us to fire concentrated balls
+of energy.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+These balls of energy, also called Manupians can be fired out of your hands and don't inflict any physical
+damage on you.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+However, your Manupians carry with them millions of microbes that can damage human tissue.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+You're immune against your own Manupians since the microbes are generated from remnants of your
+DNA. If you fire Manupians at anyone else however, the microbes damage their tissue.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+In short, you can fire your Manupians like a weapon at your opponents. Beware, however, that opponents
+can do the same to you with their Manupians.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+I'm going to give you a quick demonstration of what firing Manupians looks like. Don't worry, I've
+injected us with parts of each other's DNA so that we're immune against each other's Manupians.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+Alright, stand back and watch.
+X Key: Show me!
+KeyPress_x Command
+Ace MoveX 10
+NoCondition Command
+Ace Fire 100
+NoCondition Dialog
+Ace
+2
+Pretty cool, huh? Alright now it's your turn. To fire your Manupians, simply press the left mouse button.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+To get the full effect of firing however, I recommend that you hold your mouse button pressed.
+This will create a nice stream of Manupians. Go ahead and try it!
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+Ok! Now use the cross hair to aim.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+Notice that you're not able to shoot at anything during a cutscene. As soon as the cutscene ends you'll
+be able to inflict damage again.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+Ok. Now that you learned how to fire your Manupians, go ahead and do some target practice with the
+dummies that I've scattered throughout my training area.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+Simply make it to the end of the level to continue with your training.
+X Key: Let's go!
+KeyPress_x Finish
+2
+NoCondition Dialog
+Ace
+2
+Great! Continue to hone your shooting skills in this level. Make it to the end to continue your training.
+X Key: Let's go!
+KeyPress_x Finish
+9
+NoCondition Dialog
+Ace
+3
+Ok, now that you've learned the basics of firing your Manupians, it's time to learn about the different
+Weapons available.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+Throughout the Swace Empire, you'll find weapons that you can pick up. Once picked up, your DNA
+temporarily adopts the power and function of the weapon.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+In other words, once you pick up the weapons scattered throughout the Empire, you can use them for a
+short period of time.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+Since actions speak louder than words, it's probably best to try it out. Just like before, go through the
+training stage and destroy the dummies and targets.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+Only now, you'll find weapons falling down that you can pick up. Pick up the weapons by running into
+them.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+All of your picked up weapons are displayed in the head up display under Temporary Weapons.
+You can pick up and fire multiple weapons at a time.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+Go ahead and experiment with the weapons and observe their effects on the dummies and targets.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+Alright, go ahead and enjoy yourself with the weapons. Make it to the end of the level to continue
+your training.
+X Key: Let's go!
+KeyPress_x Finish
+20
+NoCondition Dialog
+Ace
+3
+Great! Looks like you're getting the basics of Ace Fighting down quite well! There's just one last
+fundamental lesson I have to teach you before we can take on the Swace Empire.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+That last lesson is about the use of special weapons and it is one of the most important skills that
+you're learning here in my training area.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+What are special weapons, you ask? Well, the blue statistics screen you just saw before listed among
+other things, the special weapons you earned.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+Like the temporary weapons you find all around the Swace Empire, special weapons merge with your
+DNA to allow you to use their power.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+The difference between temporary weapons and special weapons, however, is that special weapons
+last much longer. Once obtained, special weapons can be used throughout an entire level.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+Alright, like before, I think it's best that we try out these special weapons.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+Before we do that, however, it's important to understand the basic concept of the special weapons.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+Even though I said, that special weapons last you throughout an entire level, they do have a limitation.
+That limitation is your special meter.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+As long as your special meter is not empty, your special weapons can be used. However, once the
+special meter is empty, you can't use your special weapon.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+Don't worry though because your special meter replenishes itself automatically, so after a short while
+you'll be able to use your special weapons again.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+Once we begin our journey to overthrow the evil emperor Iron Man Dan, you'll be able to find ways
+to increase the amount of special in your special meter.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+Alright, let's get down to using our special weapons. To switch to your special weapons, press the S key.
+S Key: Switch to special weapons.
+KeyPress_s Dialog
+Ace
+3
+Notice how your special weapons are highlighed in your HUD. This indicates that you're now using
+your special weapons.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+To use your special weapon simply fire just like you usually would, using the left mouse button.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+Notice how you're firing your special weapons now. Also notice how your special meter is being
+depleted as you fire.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+Stop firing to allow your special meter to replenish again.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+Alright, to switch back to your normal weapons, either use up all your special or press the S key again.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+Ok. Experiment with your special weapons and make it to the end of the level to finish your training.
+Remember, after this, our journey to overthrow the Swace Empire will begin so make sure you're ready.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+One last thing. If at any time you wish to skip a cutscene, simply press the E key. This will terminate
+the cutscene immediately. Alright, go ahead and finish your training. I'll meet you outside.
+X Key: Let's go!
+KeyPress_x Finish
+27
+NoCondition Dialog
+Ace
+2
+Hello Benny. I think we're ready to commence our mission.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+As you know, Swace was once a sprawling interstellar empire. Other empires admired us for the strides
+we had made in the sciences, particularly the Manupian sciences.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+Swace was also renowned for its freedom and civil liberties. Many people fled other, oppressive states
+to seek harbor in Swace.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+To sum it up, Swace was once among the most powerful and righteous empires in the interstellar
+community...
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+...until Iron Man Dan came to power.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+Iron Man Dan worked his way up in the Swace senate for two decades until he finally won one of the
+Key Empire Seats.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+What are the Key Empire Seats, you ask? Basically, if something happens to the Emperor, the members
+of the senate vote for one of the Key Empire senators to replace the Emperor until the next election.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+So now that Iron Man Dan was one of the Key Empire Senators, all he had to do to become the Swace
+Emperor was take the current Emperor out of play and win the senate's Key Empire election...
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+And that's exactly what he did. Sure enough, only two months after Iron Man Dan had become one of
+the Key Empire Senators, Emperor Calcus fell into a coma.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+Two weeks after that, he died...
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+By the time Emperor Calcus passed, Iron Man Dan had placed all the men he needed to win the Key
+Empire election into the senate.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+Needless to say, Iron Man Dan won the Key Empire election and became the new Emperor of Swace.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+Immediately after taking office, Iron Man Dan declared martial law. This made it easy for him to bend
+the Empire's Consitution to his will without the citizens being able to do anything about it...
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+Iron Man Dan thus rewrote parts of the Swace Constitution to read that he was the new permanent
+Emperor.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+He then proceeded to suspend civil liberties indefinitely because he felt that enforcing them would just
+require more administrative overhead.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+As you can see, Iron Man Dan has managed to turn Swace into an evil, manipulative and oppressive
+empire.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+Which is why I've started a small rebel force known as the Ace Fighters. The truth is, the citizens are
+fed up with Iron Man Dan's fascist policies, they're just too afraid and disorganized to take a stand.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+If we can just take down a few key parts of Iron Man Dan's regime, we can motivate the citizens of
+Swace to topple the government.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+What key parts, you ask? The first and one of the primary support structures of Iron Man Dan's Empire
+is the Swace Military.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+An old friend and former student of mine by the name of Danilo, is a general in the Swace army.
+With his help we can incapacitate the Swace war machine.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+Your mission, now, is to make your way to the edge of the city of Swaylonia and meet up with Danilo
+at the Swaylonia Military Base.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+I've already contacted Danilo, so he should be expecting you.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+Be careful though. The city is filled with police. Martial law is in place, and there's a 20 hour curfew.
+If the police see you, they won't hesitate to shoot you with their Manupians.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+Alright. Enough talk. It's time for you to go. Remember everything you learned in my training.
+I'll keep in touch with you along the way using our private radio frequency.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+One more thing. Remember, to skip a cutscene, simply press the E key at any time during the cutscene.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+Good luck!
+X Key: Let's go!
+KeyPress_x Finish
+6
+NoCondition Dialog
+Ace
+2
+Hello Benny... can you hear me? It's Ace. I'm talking to you over our private radio frequency.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+You've done a great job so far! We still have a way to go though so stay strong!
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+I've done some research and the best and fastest way to reach the end of town is by getting down to the
+city streets. From there you can get into the sewers.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+The sewers will take you to the edge of town. From there it should just be a short walk on a country
+road until you reach the Swaylonia Military Base.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+Alright, good luck and keep up the good work! Danilo will be waiting for you.
+X Key: Let's go!
+KeyPress_x Finish
+27
+NoCondition Dialog
+Ace
+3
+Hello again. Alright, you've made it to the military base. Let me just talk to those two soldiers so they
+can open the door for you.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+Hello, my name is Ace and I have a meeting with General Danilo.
+X Key: Continue
+KeyPress_x Command
+Goben MoveX -10
+NoCondition Dialog
+Goben
+2
+This is private Goben. I'm under direct orders not to let anyone through.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+I understand, private, but I have a meeting with your general.
+X Key: Continue
+KeyPress_x Dialog
+Goben
+2
+What did you say your name was again?
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+My name is Ace.
+X Key: Continue
+KeyPress_x Dialog
+Goben
+2
+That name sounds familiar...
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+Yes... as I mentioned earlier, I have a meeting with General Danilo. Could you open the door?
+X Key: Continue
+KeyPress_x Dialog
+Goben
+2
+I'm afraid I can't do that sir.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+Why not? I just told you that I had a meeting...
+X Key: Continue
+KeyPress_x Dialog
+Goben
+2
+Private Hobbes,
+X Key: Continue
+KeyPress_x Command
+Hobbes MoveX 10
+NoCondition Dialog
+Hobbes
+2
+Yes sir!
+X Key: Continue
+KeyPress_x Dialog
+Goben
+2
+Assume combat position and prepare for battle.
+X Key: Continue
+KeyPress_x Dialog
+Hobbes
+2
+Yes sir!
+X Key: Continue
+KeyPress_x Command
+Hobbes MoveX -40
+NoCondition Dialog
+Ace
+2
+What's going on here?
+X Key: Continue
+KeyPress_x Dialog
+Goben
+2
+I remembered where I heard your name...
+X Key: Continue
+KeyPress_x Dialog
+Goben
+2
+We're under direct orders from General Danilo to prevent you from entering the military complex.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+What? How is that possible? We have a meeting with General Danilo... he's an old friend of mine.
+X Key: Continue
+KeyPress_x Dialog
+Goben
+2
+I'm afraid you've been misinformed sir. Private Hobbes, prepare for battle!
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+Benny, I have no idea what they're talking about... Maybe they're government agents disguised as
+soldiers to ensure the army's loyalty to Iron Man Dan.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+They're not working for General Danilo, that's for sure... If they won't let us into the complex, you'll
+just have to fight your way in. Take them out and you should be able to get in.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+Private Goben, we WILL go see General Danilo, whether you like it or not...
+X Key: Continue
+KeyPress_x Dialog
+Goben
+2
+Sounds like a threat to me... Private Hobbes, attack!
+X Key: Let's go!
+KeyPress_x Finish
+42
+NoCondition Dialog
+Ace
+3
+Good job, Benny! You're in! Look over there! It's General Danilo. Looks like we made it. Let me have a
+quick word with him.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+General Danilo, old friend! You have no idea what trouble we went through to get here...
+X Key: Continue
+KeyPress_x Command
+Danilo MoveX -10
+NoCondition Dialog
+Danilo
+2
+Ace! I can only imagine... How have you been...
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+I've been alright. Say, what was with those soldiers out front?
+X Key: Continue
+KeyPress_x Dialog
+Danilo
+2
+Well you know how it works... they're just following orders.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+Yes but whose orders?
+X Key: Continue
+KeyPress_x Dialog
+Danilo
+2
+You've already forgotten how the chain of command works, Ace? My orders, of course...
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+I don't understand...
+X Key: Continue
+KeyPress_x Dialog
+Danilo
+2
+Oh Ace... Let me explain...
+X Key: Continue
+KeyPress_x Dialog
+Danilo
+2
+You see that Anitron hovering around?
+X Key: Continue
+KeyPress_x Dialog
+Danilo
+2
+It's ready to annihilate your little friend here at my command...
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+What are you talking about, Danilo?
+X Key: Continue
+KeyPress_x Dialog
+Danilo
+3
+It's simple, really, Ace. You see, while you were busy training your little Ace Fighters to do whatever
+bidding, I worked my way closer to Iron Man Dan.
+X Key: Continue
+KeyPress_x Dialog
+Danilo
+2
+It turns out that his vision for a new Swace isn't as bad once you see it from his point of view...
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+What are you talking about? Iron Man Dan is everything that's wrong with this Empire!
+X Key: Continue
+KeyPress_x Dialog
+Danilo
+3
+Oh Ace... you haven't changed at all, have you? You always speak of others as being intolerant and
+oppressive, when, in fact you are just as intolerant as the very people you criticize.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+I can't believe this, Danilo... After all these years...
+X Key: Continue
+KeyPress_x Dialog
+Danilo
+2
+What can I say... every man has his price.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+I can't believe you, Danilo. You sold out?!
+X Key: Continue
+KeyPress_x Dialog
+Danilo
+3
+Oh like you wouldn't do the same, Ace! Don't give me your self-righteous, condescending morality
+speech.
+X Key: Continue
+KeyPress_x Dialog
+Danilo
+3
+You know... we're not so different, you and I. We're both ambitious, we have a vision for the Empire,
+and we want to make that vision become a reality...
+X Key: Continue
+KeyPress_x Dialog
+Danilo
+3
+The only difference, really, is that you don't have the guts to make that vision happen yourself.
+You always have someone else do it for you.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+What's that supposed to mean?
+X Key: Continue
+KeyPress_x Dialog
+Danilo
+3
+Oh come on... you don't even notice it anymore! A few years ago you trained me for one of your
+nonsense causes, only to send me into an ambush!
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+So that's what this is about? You know that that was an accident. I came and helped you!
+X Key: Continue
+KeyPress_x Dialog
+Danilo
+3
+That's not the point, Ace. The point is that, despite events like those, you still try to impose your
+views by sending other people to do all the dirty work for you.
+X Key: Continue
+KeyPress_x Dialog
+Danilo
+3
+I mean look now, for instance. You've sent yet another one of your errand boys to do the work you
+yourself should be doing.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+Don't listen to him, Benny.
+X Key: Continue
+KeyPress_x Dialog
+Danilo
+3
+Your little rebellion ends here, Ace. It's just sad that your little soldier boy here has to make the
+sacrifice...
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+Don't do this, Danilo!
+X Key: Continue
+KeyPress_x Dialog
+Danilo
+2
+Oh it's way too late now, Ace. My Anitron is already armed and ready...
+X Key: Continue
+KeyPress_x Dialog
+Danilo
+2
+The only way you can overtake my military is over my dead body...
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+I don't believe this...
+X Key: Continue
+KeyPress_x Dialog
+Danilo
+2
+Oh, you better believe it, Ace. You better believe it.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+Alright, Benny. Looks like we've been ambushed. I'm deeply sorry for the situation I have put you in.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+You'll be fine, though. Danilo was never as strong of a student as you were. That's why he has to have
+an Anitron to help him...
+X Key: Continue
+KeyPress_x Dialog
+Ace
+2
+I'm afraid he's leaving us no choice but to eliminate him and his Anitron.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+To take out the Anitron, simply destroy its cockpit. You can also destroy its turrets but that won't be
+enough. You must take out the cockpit if you want to defeat the Anitron.
+X Key: Continue
+KeyPress_x Dialog
+Ace
+3
+Alright Benny. All your training and hard work boil down to this. Take out General Danilo and his
+Anitron. He's leaving us no other choice.
+X Key: Continue
+KeyPress_x Dialog
+Danilo
+3
+Oh Ace... I think you're underestimating my powers... Looks like one of your students has to take
+the fall for you once again...
+X Key: Let's battle!
+KeyPress_x Finish
